@@ -1,4 +1,5 @@
 # Decision Trace Engine (DTE)
+<img width="1893" height="835" alt="Screenshot Capture - 2026-01-06 - 23-09-45" src="https://github.com/user-attachments/assets/2edac433-516a-4a40-90ef-89a6a28a71fb" />
 
 Decision Trace Engine is a web-based cognitive analysis tool designed to
 deconstruct human decision-making into structured reasoning components.
